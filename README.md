@@ -23,6 +23,12 @@
      - ##### _updateEvent( )_
      - ##### _deleteEvent( )_
      - ##### _findByDate( )_
+   - ### Repository
+     - ##### _findAll( )_   
+     - ##### _findById( )_       
+     - ##### _save( )_     
+     - ##### _deleteById( )_       
+     
 - ## Data Structure used 
   - #### ArrayList of type String
 - ## Database Used
