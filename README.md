@@ -33,7 +33,7 @@
   - #### ArrayList of type String
 - ## Database Used
   - #### H2 console
-- ## Poject Summary
+- ## Project Summary
   In this project we can perform all the CRUD operations on the list of students and events. We have provided some endpoints and also in this section below we have given our API. Using this API we can perform the operations accordingly
   
   > http://localhost:8080/api/v1/univ-event/management
